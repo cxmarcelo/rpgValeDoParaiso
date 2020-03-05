@@ -1,0 +1,39 @@
+	( com animais, meio ambiente e bla bla bla)
+
+  // Ideia 1 - Jogo RPG
+1) Atributos básicos (jogador)
+	-extends
+		-Classe Guerreiro, Mago, Arqueiro( ou ladino) cada um com padrão de atributos.
+
+2) equipamentos e armas
+	armas especificas para cada classe
+	equipamentos geral
+
+
+3) monstros  / atirbutos basicos
+	normal / boss
+
+4) mini história (talvez)
+
+5) chefes
+
+6) itens utilizaveis
+	pot cura e tals
+	
+7) restart / game over
+
+8) Telas/ personagens(visual)
+
+9) Sistema de Combate
+
+
+// Ideia 2 - plant vs zumbies versão Acre
+// Ideia 3 - Battle Royale
+// Ideia 4 - Xadrez
+// Ideia 5 - Um "Mario"
+// Ideia 6 - Jogo de memoria (aparentemente o mais fácil)
+// Ideia 7 - PacMan
+// Ideia 8 - Snake
+// Ideia 9 - Sei la
+
+
